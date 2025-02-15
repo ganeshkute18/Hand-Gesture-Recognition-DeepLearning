@@ -7,7 +7,7 @@ Accurately classify different hand gestures from images/videos.
 Enable intuitive gesture-based control for various applications.
 Implement real-time gesture detection using a webcam.
 
- Methodology
+Methodology
 1️ Dataset Collection & Preprocessing
 Use datasets like ASL Hand Gesture Dataset, Sign Language MNIST, or create a custom dataset using OpenCV.
 Data Augmentation (Rotation, Scaling, Flipping) to improve generalization.
@@ -34,14 +34,14 @@ Evaluate model performance using accuracy, precision, recall, and F1-score.
 Convert the trained model to TensorFlow Lite for mobile deployment.
 Deploy as a web app using Flask or Streamlit for easy interaction.
 
-🛠 Technologies Used
+Technologies Used
 Python
 TensorFlow/Keras or PyTorch
 OpenCV for image/video processing
 MediaPipe for hand landmark detection
 Flask/Streamlit for deployment
 
-📈 Expected Outcomes
+Expected Outcomes
 A robust gesture recognition model with high accuracy.
 Real-time gesture-controlled applications (e.g., controlling media, switching slides, or sign language recognition).
 Easy deployment on PC or mobile devices.
