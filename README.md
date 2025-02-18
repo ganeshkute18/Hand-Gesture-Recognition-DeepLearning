@@ -70,4 +70,4 @@ Model Deployment: Flask, Streamlit
 
 📦 Dataset Link
 
-🔗 LEAP Hand Gesture Recognition Dataset
+Dataset :-  https://www.kaggle.com/gti-upm/leapgestrecog
